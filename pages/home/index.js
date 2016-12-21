@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import R from 'ramda'
 
 // import local css as s.
+import s from './normalize.css'
 import s from './styles.css'
 // import global css as gs
 import gs from './../../styles/grid.css'
